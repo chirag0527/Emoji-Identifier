@@ -1,2 +1,3 @@
 # Emoji-Identifier
-Created with CodeSandbox
+
+Identifies the emoji user types
